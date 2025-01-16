@@ -1,0 +1,5 @@
+file,proof_duration_sec,max_memory,user_cycles
+jolt_matrix_ops_n10.log,3.948922583,7.8771209716796875,195016
+jolt_matrix_ops_n20.log,26.748601042,44.98675537109375,1536187
+jolt_matrix_ops_n30.log,172.968573041,45.62556457519531,5166906
+jolt_matrix_ops_n40.log,,50.505584716796875,12226685

@@ -1,0 +1,7 @@
+file,proof_duration_sec,max_memory,user_cycles
+nexus_fibonacci_n10.log,14.64,1.49786376953125,2532
+nexus_fibonacci_n100.log,14.53,1.4830169677734375,7302
+nexus_fibonacci_n1000.log,14.52,1.4844970703125,55002
+nexus_fibonacci_n10000.log,14.59,1.4768829345703125,532002
+nexus_fibonacci_n100000.log,14.61,1.476318359375,5302002
+nexus_fibonacci_n1000000.log,14.93,1.471099853515625,53002002
